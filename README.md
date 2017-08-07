@@ -1,5 +1,5 @@
-# angular2-registration-login-example-webpack
+# TEAM PLAN
 
-Angular 2 User Registration and Login Example with Webpack
+Angular 2 Platform for managing teams, players and coaches.
 
-To see a demo and further details go to http://jasonwatmore.com/post/2016/09/29/angular-2-user-registration-and-login-example-tutorial
+To see a demo and further details go to http://teamplan.jonathan-farrell.com
