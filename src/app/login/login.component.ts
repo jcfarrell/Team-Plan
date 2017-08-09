@@ -41,7 +41,7 @@ export class LoginComponent implements OnInit {
 
                 },
                 error => {
-                    this.alertService.error("There was an error logging in. Please check your credentials and try again.");
+                    this.alertService.error(error);
                     this.loading = false;
                 });
 

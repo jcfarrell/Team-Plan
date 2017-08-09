@@ -30,6 +30,7 @@ export class AlertService {
 
     error(message: string, keepAfterNavigationChange = false) {
         this.keepAfterNavigationChange = keepAfterNavigationChange;
+        console.log(message);
         this.subject.next({ type: 'error', text: message });
     }
 

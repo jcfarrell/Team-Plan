@@ -5,3 +5,14 @@
 .help-block {
     font-size: 12px;
 }
+
+#logo img{
+	width:325px; 
+	max-width: 100%;
+	margin-bottom:25px;
+}
+
+#credits{
+	font-size: 10px;
+    color: #666;
+}
