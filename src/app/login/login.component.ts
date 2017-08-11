@@ -37,7 +37,7 @@ export class LoginComponent implements OnInit {
                     this.userService.setUserInfo(user.userId);
                     setTimeout(()=>{
                         this.router.navigate([this.returnUrl]);
-                    }, 100);
+                    }, 200);
 
                 },
                 error => {
